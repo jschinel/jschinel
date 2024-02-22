@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A obsessed software developer with a long history in the electronics/controls field</h3>
 
 - 🌱 I’m currently learning **Frameworks,Languages and overall honing of my skills**
 
