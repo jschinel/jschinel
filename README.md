@@ -1,4 +1,4 @@
-<h3 align="center">Passionate software developer with a long history in the electronics/controls field</h3>
+<h3 align="center">With over 8 years of experience in the electronics/controls field I am excited to continue improving my skills within software development. Currently looking for a remote opportunity that would allow me to hone my skills!</h3>
 
 - 🌱 I’m currently learning **Frameworks,Languages and overall honing of my skills**
 
