@@ -648,7 +648,7 @@ We implement a feature branch workflow, the rules of which include: <br>
 <details>
 <summary>Capstone (Personal Planner)</summary>
 	
-![alt text](frontend/public/README/Navigation/Homepage.png)
+![alt text](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Navigation/Homepage.png)
 
 Welcome to the my personal planner site!! Surf around play some trivia, read some jokes or even play some music from you spotify account!
 
@@ -670,7 +670,7 @@ https://personalplanner-11519afe1d1f.herokuapp.com/
 <details>
 <summary> Navigation </summary><br>
 
-![alt text](frontend/public/README/Navigation/Navigation.png)
+![alt text](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Navigation/Navigation.png)
 <br>
 <li>This is the main navigation of the website which holds the main links</li>
 <li>From here you will be brought to the corresponding homepage of each element where there will be a sub navigation</li>
@@ -680,7 +680,7 @@ https://personalplanner-11519afe1d1f.herokuapp.com/
 <details>
 <summary> Home </summary><br>
 
-![alt text](frontend/public/README/Navigation/Homepage.png)
+![alt text](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Navigation/Homepage.png)
 <br>
 <li>This is the general homepage that gives an overal definition of the available functionality of the site</li>
 <br>
@@ -689,7 +689,7 @@ https://personalplanner-11519afe1d1f.herokuapp.com/
 <details>
 <summary> Jokes Homepage </summary><br>
 
-![alt text](frontend/public/README/Navigation/Jokes_HomePage.png)
+![alt text](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Navigation/Jokes_HomePage.png)
 <br>
 <li>This is the main homepage for the jokes section of the site</li>
 <li>From here you can access 3 different types of jokes (General, Dad and Chuck Norris)</li>
@@ -700,7 +700,7 @@ https://personalplanner-11519afe1d1f.herokuapp.com/
 <details>
 <summary> Wordplay Homepage </summary><br>
 
-![alt text](frontend/public/README/Navigation/WordPlay_HomePage.png)
+![alt text](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Navigation/WordPlay_HomePage.png)
 <br>
 <li>This is the main homepage for the WordPlay section of the site</li>
 <li>From here you can try to solve some riddles, learn some new quotes or test your trivia skills!!</li>
@@ -711,7 +711,7 @@ https://personalplanner-11519afe1d1f.herokuapp.com/
 <details>
 <summary> Music </summary><br>
 
-![alt text](frontend/public/README/Navigation/Music.png)
+![alt text](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Navigation/Music.png)
 <br>
 <li>Here you will find your basic spotify user information and the current user token you have. You can also search playlists or songs to get some music going.</li>
 <br>
@@ -720,7 +720,7 @@ https://personalplanner-11519afe1d1f.herokuapp.com/
 <details>
 <summary> Login / Sign-Up</summary><br>
 
-![alt text](frontend/public/README/Navigation/Login.png)
+![alt text](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Navigation/Login.png)
 <br>
 <li>Here you will have access to sign up or login into your personal account</li>
 <li>After creating or loggin into your account you will now have access to comment on the webpage elements</li>
@@ -731,7 +731,7 @@ https://personalplanner-11519afe1d1f.herokuapp.com/
 <details>
 <summary>Profile</summary><br>
 
-![alt text](frontend/public/README/Navigation/Login.png)
+![alt text](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Navigation/Login.png)
 <br>
 <li>This is the main navigation of the website which holds the main links</li>
 <li>From here you will be brought to the corresponding homepage of each element where there will be a sub navigation</li>
@@ -743,19 +743,19 @@ https://personalplanner-11519afe1d1f.herokuapp.com/
 <details>
 <summary> Technologies Used </summary>
 
-![Cors](frontend/public/README/Technologies/Cors.png)
-![CSS](frontend/public/README/Technologies/CSS.png)
-![Express](frontend/public/README/Technologies/Express.png)
-![HTML](frontend/public/README/Technologies/HTML.png)
-![Javascript](frontend/public/README/Technologies/Javascript.gif)
-![JWT](frontend/public/README/Technologies/JWT.png)
-![MongoDB](frontend/public/README/Technologies/MongoDB.png)
-![Mongoose](frontend/public/README/Technologies/Mongoose_Web_Server.svg.png)
-![NodeJS](frontend/public/README/Technologies/NodeJS.png)
-![React](frontend/public/README/Technologies/React.png)
-![Spotify](frontend/public/README/Technologies/Spotify.png)
-![Tailwind](frontend/public/README/Technologies/Tailwind.png)
-![Vite](frontend/public/README/Technologies/Vite.png)
+![Cors](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Technologies/Cors.png)
+![CSS](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Technologies/CSS.png)
+![Express](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Technologies/Express.png)
+![HTML](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Technologies/HTML.png)
+![Javascript](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Technologies/Javascript.gif)
+![JWT](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Technologies/JWT.png)
+![MongoDB](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Technologies/MongoDB.png)
+![Mongoose](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Technologies/Mongoose_Web_Server.svg.png)
+![NodeJS](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Technologies/NodeJS.png)
+![React](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Technologies/React.png)
+![Spotify](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Technologies/Spotify.png)
+![Tailwind](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Technologies/Tailwind.png)
+![Vite](https://github.com/jschinel/Capstone/blob/main/frontend/public/README/Technologies/Vite.png)
 
 </details>
 
