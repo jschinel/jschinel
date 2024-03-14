@@ -647,7 +647,8 @@ We implement a feature branch workflow, the rules of which include: <br>
 
 <details>
 <summary>Capstone (Personal Planner)</summary>
-	![alt text](frontend/public/README/Navigation/Homepage.png)
+	
+![alt text](frontend/public/README/Navigation/Homepage.png)
 
 Welcome to the my personal planner site!! Surf around play some trivia, read some jokes or even play some music from you spotify account!
 
@@ -735,8 +736,6 @@ https://personalplanner-11519afe1d1f.herokuapp.com/
 <li>This is the main navigation of the website which holds the main links</li>
 <li>From here you will be brought to the corresponding homepage of each element where there will be a sub navigation</li>
 <br>
-</details>
-
 </details>
 
 <br>
